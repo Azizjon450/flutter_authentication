@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095581371516",
+    "project_id": "authapp-e7033",
+    "storage_bucket": "authapp-e7033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095581371516:android:9ca002a84b4d35dfc88df9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDAJHn4mT7bktEbY2fTYxwvf_GXP_sXQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
